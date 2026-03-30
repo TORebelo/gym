@@ -46,11 +46,11 @@ Tracking de treino, dieta, objetivos e progresso. Serve como base de conheciment
 
 Carb cycling — mais carbs dias treino, mais gordura dias descanso. Proteina ~200g+ constante.
 
-| | Dia Treino (~2,250) | Dia Descanso (~2,040) |
+| | Dia Treino (~2,250) | Dia Descanso (~1,830) |
 |---|---|---|
 | **Almoco** | 150g frango, 100g arroz, 2 ovos, 150g vegetais | 150g frango, 80g arroz, 2 ovos, salada+azeite |
 | **Lanche** | 250g iogurte grego, 30g whey, 20g amendoins, 1 maca | 250g iogurte grego, 30g whey, 25g amendoins, frutos vermelhos |
-| **Pre-treino** | 2 ovos, 1 banana | — |
+| **Pre-treino** | 2 ovos, 1 banana (ou 3 bolachas arroz) | — |
 | **Jantar** | 200g peixe, 200g arroz, 150g vegetais | 200g peixe, 0 arroz, 300g vegetais |
 | **Ceia** | 200g iogurte grego, 30g whey, 20g amendoins, creatina | 200g iogurte grego, 30g whey, 25g amendoins, creatina |
 | **Totais** | ~2,244kcal · P:237g · C:192g · F:60g | ~1,831kcal · P:219g · C:88g · F:65g |

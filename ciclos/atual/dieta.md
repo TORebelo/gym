@@ -25,7 +25,7 @@
 
 ### Pre-treino (60-90min antes)
 - 2 Ovos
-- 1 Banana
+- 1 Banana (ou 3 bolachas de arroz se nao houver banana)
 → ~249kcal | P: 14g | C: 28g | F: 10g
 
 ### Jantar (pos-treino — carbs backloaded)
