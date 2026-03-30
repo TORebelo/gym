@@ -1,7 +1,7 @@
 # Dieta — Cut com Carb Cycling (Abr-Jun 2026)
 
 ## Estrategia
-- Deficit ~550kcal/dia (media semanal)
+- Deficit ~615kcal/dia (media semanal)
 - TDEE estimado: ~2,885 (treino) / ~2,375 (descanso) / ~2,740 media
 - Proteina alta constante (~2.2g/kg = 200g/dia)
 - Carbs backloaded (concentrados a volta do treino)
@@ -48,14 +48,14 @@
 
 ---
 
-## Dias de Descanso — ~2,040kcal (target)
+## Dias de Descanso — ~1,830kcal (target)
 
 ### Almoco
 - 150g Frango
 - 80g Arroz (cozido)
 - 2 Ovos
 - Salada abundante (~200g) + azeite (10ml)
-→ ~574kcal | P: 62g | C: 26g | F: 24g
+→ ~604kcal | P: 63g | C: 26g | F: 25g
 
 ### Lanche
 - 250g Iogurte Grego (2%)
@@ -78,14 +78,14 @@
 → ~413kcal | P: 49g | C: 15g | F: 18g
 
 ### Total dia descanso
-~1,807kcal | P: 218g (2.4g/kg) | C: 88g | F: 64g
+~1,831kcal | P: 219g (2.4g/kg) | C: 88g | F: 65g
 
 ---
 
 ## Media semanal (5 treino + 2 descanso)
-- Calorias: (2,244 x 5 + 1,807 x 2) / 7 = **~2,119kcal/dia**
-- Deficit: ~2,740 - 2,119 = **~621kcal/dia**
-- Perda esperada: **~0.55-0.6kg/semana**
+- Calorias: (2,244 x 5 + 1,831 x 2) / 7 = **~2,126kcal/dia**
+- Deficit: ~2,740 - 2,126 = **~614kcal/dia**
+- Perda esperada: **~0.6kg/semana**
 
 ## Regras
 - Agua: 4-5L/dia

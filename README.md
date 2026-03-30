@@ -7,7 +7,7 @@ Tracking de treino, dieta, objetivos e progresso. Serve como base de conheciment
 | | |
 |---|---|
 | Altura | 1.80m |
-| Peso atual | 90.0 kg |
+| Peso atual | 91.0 kg |
 | BF estimado | ~20% |
 | Foco | Estetica / composicao corporal |
 | Joelho | Lesao patela — rehab ativo |
@@ -16,30 +16,30 @@ Tracking de treino, dieta, objetivos e progresso. Serve como base de conheciment
 
 | | |
 |---|---|
-| Objetivo | 90kg → 83-85kg (seco) |
+| Objetivo | 91kg → 84-85kg (seco) |
 | Periodo | 31 Mar — 29 Jun 2026 (13 semanas) |
 | Treino | Push/Pull/Posterior/Upper/Arms+Delts, 4-5x/sem |
-| Dieta | Cut carb cycling (~2,250 treino / ~2,040 descanso) |
-| Deficit | ~550-620 kcal/dia |
-| Perda esperada | ~0.55 kg/semana |
+| Dieta | Cut carb cycling (~2,244 treino / ~1,831 descanso) |
+| Deficit | ~614 kcal/dia |
+| Perda esperada | ~0.6 kg/semana |
 | Check-in | Domingos, pesagem jejum |
 
 ### Calendario
 
 | Sem | Datas | Fase | Peso esperado |
 |---|---|---|---|
-| 1 | 31 Mar - 6 Abr | Mesociclo 1 | 90.0 |
-| 2 | 7-13 Abr | Mesociclo 1 | ~88.5 |
-| 3 | 14-20 Abr | Mesociclo 1 | ~88.0 |
-| 4 | 21-27 Abr | Mesociclo 1 | ~87.5 |
-| **5** | **28 Abr - 4 Mai** | **DELOAD** | **~87.0** |
-| 6 | 5-11 Mai | Mesociclo 2 | ~86.5 |
-| 7 | 12-18 Mai | Mesociclo 2 | ~86.0 |
-| 8 | 19-25 Mai | Mesociclo 2 | ~85.5 |
-| 9 | 26 Mai - 1 Jun | Mesociclo 2 | ~85.0 |
-| **10** | **2-8 Jun** | **DELOAD** | **~84.5** |
-| 11 | 9-15 Jun | Mesociclo 3 | ~84.0 |
-| 12 | 16-22 Jun | Mesociclo 3 | ~83.5 |
+| 1 | 31 Mar - 6 Abr | Mesociclo 1 | 91.0 |
+| 2 | 7-13 Abr | Mesociclo 1 | ~89.5 |
+| 3 | 14-20 Abr | Mesociclo 1 | ~89.0 |
+| 4 | 21-27 Abr | Mesociclo 1 | ~88.4 |
+| **5** | **28 Abr - 4 Mai** | **DELOAD** | **~87.8** |
+| 6 | 5-11 Mai | Mesociclo 2 | ~87.2 |
+| 7 | 12-18 Mai | Mesociclo 2 | ~86.6 |
+| 8 | 19-25 Mai | Mesociclo 2 | ~86.0 |
+| 9 | 26 Mai - 1 Jun | Mesociclo 2 | ~85.4 |
+| **10** | **2-8 Jun** | **DELOAD** | **~84.8** |
+| 11 | 9-15 Jun | Mesociclo 3 | ~84.2 |
+| 12 | 16-22 Jun | Mesociclo 3 | ~83.6 |
 | 13 | 23-29 Jun | Mesociclo 3 | ~83.0 |
 
 ### Dieta Atual
@@ -53,9 +53,9 @@ Carb cycling — mais carbs dias treino, mais gordura dias descanso. Proteina ~2
 | **Pre-treino** | 2 ovos, 1 banana | — |
 | **Jantar** | 200g peixe, 200g arroz, 150g vegetais | 200g peixe, 0 arroz, 300g vegetais |
 | **Ceia** | 200g iogurte grego, 30g whey, 20g amendoins, creatina | 200g iogurte grego, 30g whey, 25g amendoins, creatina |
-| **Totais** | ~2,244kcal · P:237g · C:192g · F:60g | ~1,807kcal · P:218g · C:88g · F:64g |
+| **Totais** | ~2,244kcal · P:237g · C:192g · F:60g | ~1,831kcal · P:219g · C:88g · F:65g |
 
-Media semanal (5T+2D): **~2,119kcal/dia** · deficit **~621kcal/dia** · perda **~0.55-0.6kg/sem**
+Media semanal (5T+2D): **~2,126kcal/dia** · deficit **~614kcal/dia** · perda **~0.6kg/sem**
 
 → Detalhes completos: [`ciclos/atual/dieta.md`](ciclos/atual/dieta.md)
 
@@ -77,7 +77,7 @@ RPE 7-8 · Cardio: stairmaster 15min pos-treino · Deload sem 5 e 10
 
 | Data | Peso (kg) | Sem | Nota |
 |---|---|---|---|
-| 31 Mar | — | 0 | Inicio ciclo |
+| 30 Mar | 91.0 | 0 | Baseline (pre-ciclo) |
 
 ## Estrutura
 
