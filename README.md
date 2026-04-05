@@ -7,7 +7,7 @@ Tracking de treino, dieta, objetivos e progresso. Serve como base de conheciment
 | | |
 |---|---|
 | Altura | 1.80m |
-| Peso atual | 91.0 kg |
+| Peso atual | 91.5 kg |
 | BF estimado | ~20% |
 | Foco | Estetica / composicao corporal |
 | Joelho | Lesao patela — rehab ativo |
@@ -78,6 +78,7 @@ RPE 7-8 · Cardio: stairmaster 15min pos-treino · Deload sem 5 e 10
 | Data | Peso (kg) | Sem | Nota |
 |---|---|---|---|
 | 30 Mar | 91.0 | 0 | Baseline (pre-ciclo) |
+| 5 Abr | 91.5 | 1 | +0.5 — excessos fds (churrasco, vinho), mascarado |
 
 ## Estrutura
 

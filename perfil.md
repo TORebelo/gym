@@ -11,6 +11,7 @@
   - Priorizar cadeia posterior
   - Saltos causam dor pos — evitar pliometria por agora
   - Curl sentado causa dor — usar apenas curl deitado
+  - Futebol: usa joelheira R500 + fita compressiva — reduz pressao no joelho
 
 ## Contexto
 - Experiencia: intermedia
