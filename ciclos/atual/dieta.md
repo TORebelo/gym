@@ -7,7 +7,22 @@
 - Carbs backloaded (concentrados a volta do treino)
 - Carb cycling: mais carbs dias treino, mais gordura dias descanso
 
-## Dias de Treino — ~2,250kcal (target)
+## Dias de Treino — ~2,270kcal (target)
+
+### Cafe de manha (com almoco)
+- 1 shot de expresso (60ml)
+- 50ml leite magro
+- 1/2 tsp vanilla extract
+- 1 pitada de canela
+- 1/4 tsp cacau em po sem açucar
+- 1 pitada de sal (literal pitada)
+- 1 stevia (ou equivalente zero kcal)
+- Gelo (idealmente cubos de cafe — ver nota)
+→ ~28kcal | P: 2g | C: 3g | F: 0.3g
+
+> **Preparacao:** dissolver canela + cacau + sal + stevia + vanilla no expresso **quente**, depois adicionar leite e gelo. Granulados e especiarias nao dissolvem bem em frio. Shake no shaker com gelo (15s) para melhor textura.
+>
+> **Cubos de cafe (upgrade):** fazer 1x/semana. Brew 200-300ml cafe (50% cafe + 50% agua recomendado), congelar em cuvete. Ao derreterem nao diluem o drink — adicionam mais cafe. Duram indefinidamente.
 
 ### Almoco
 - 150g Frango
@@ -28,6 +43,13 @@
 - 1 Banana (ou 3 bolachas de arroz se nao houver banana)
 → ~249kcal | P: 14g | C: 28g | F: 10g
 
+> **Alternativa — Protein Iced Coffee (substitui os 2 ovos, mantem banana):**
+> 2 shots expresso (120ml) + 100ml leite magro + 1 scoop whey baunilha (30g) + canela + 1/4 tsp cacau + pitada de sal + stevia + gelo (idealmente cubos de cafe). Shake no shaker.
+> → ~160kcal | P: 27g | C: 6g | F: 2g
+> Combinado com a banana: ~249kcal | P: 28g | C: 29g | F: 2g
+> Vantagens: mesmo kcal/carbs que o default, +14g P, -8g F, e cafeina no timing otimo (30-45min antes de treino). Timing curto (20-30min antes) tambem funciona aqui porque whey+liquido digere rapido, ao contrario dos ovos.
+> Usar em dias de pressa ou quando o treino for 20-30min apos a refeicao.
+
 ### Jantar (pos-treino — carbs backloaded)
 - 200g Peixe (rotacao — ver tabela abaixo)
 - 200g Arroz (cozido)
@@ -42,13 +64,24 @@
 → ~383kcal | P: 49g | C: 15g | F: 15g
 
 ### Total dia treino
-~2,244kcal | P: 237g (2.6g/kg) | C: 192g | F: 60g
+~2,272kcal | P: 239g (2.6g/kg) | C: 195g | F: 60g
 
 > Nota: proteina acima do target de 200g. Para baixar para ~200g sem perder calorias, trocar 30g de frango no almoco por 40g arroz extra. Ou simplesmente aceitar — proteina acima de 2.2g/kg nao prejudica, so e caloricamente menos eficiente.
 
 ---
 
-## Dias de Descanso — ~1,830kcal (target)
+## Dias de Descanso — ~1,855kcal (target)
+
+### Cafe de manha (com almoco)
+- 1 shot de expresso (60ml)
+- 50ml leite magro
+- 1/2 tsp vanilla extract
+- 1 pitada de canela
+- 1/4 tsp cacau em po sem açucar
+- 1 pitada de sal (literal pitada)
+- 1 stevia (ou equivalente zero kcal)
+- Gelo (idealmente cubos de cafe — ver nota)
+→ ~28kcal | P: 2g | C: 3g | F: 0.3g
 
 ### Almoco
 - 150g Frango
@@ -78,14 +111,14 @@
 → ~413kcal | P: 49g | C: 15g | F: 18g
 
 ### Total dia descanso
-~1,831kcal | P: 219g (2.4g/kg) | C: 88g | F: 65g
+~1,859kcal | P: 221g (2.4g/kg) | C: 91g | F: 65g
 
 ---
 
 ## Media semanal (5 treino + 2 descanso)
-- Calorias: (2,244 x 5 + 1,831 x 2) / 7 = **~2,126kcal/dia**
-- Deficit: ~2,740 - 2,126 = **~614kcal/dia**
-- Perda esperada: **~0.6kg/semana**
+- Calorias: (2,272 x 5 + 1,859 x 2) / 7 = **~2,154kcal/dia**
+- Deficit: ~2,740 - 2,154 = **~586kcal/dia**
+- Perda esperada: **~0.55kg/semana**
 
 ## Regras
 - Agua: 4-5L/dia

@@ -50,8 +50,8 @@ Perder gordura mantendo massa muscular. Chegar seco ao verao.
 
 ## Estrategia resumo
 - Treino: Push/Pull/Posterior/Upper/Arms+Delts, 4-5x semana
-- Dieta: Cut com carb cycling (~2,244 treino / ~1,831 descanso)
-- Deficit medio: ~614kcal/dia
+- Dieta: Cut com carb cycling (~2,272 treino / ~1,859 descanso)
+- Deficit medio: ~586kcal/dia
 - Cardio: Stairmaster diario 15min
 - Prioridade extra: recuperacao do joelho
 
